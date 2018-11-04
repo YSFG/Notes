@@ -1,0 +1,30 @@
+.main-box{
+  margin-top: 80px;
+}
+
+.home{
+  background-color: #7d0588 !important;
+}
+.navbar{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.btn-dark {
+  color: #fff;
+  background-color: #2c3e50;
+  border-color: #2c3e50;
+}
+
+.btn-secondary{
+  color:#fff;
+  background-color: #7d0588;
+  border-color: #7d0588;
+}
+.list-group-item{
+  margin-bottom: 10px;
+}
+.delete-note{
+  
+  float: right;
+ 
+}
